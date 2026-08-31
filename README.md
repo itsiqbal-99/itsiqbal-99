@@ -1,21 +1,20 @@
 # Hi, I'm Muhammad Iqbal 👋
 
-### Software Engineer · AI Engineer · Engineering Technology Enthusiast
+### Software Engineer · AI Engineer · Full-Stack Developer
 
-I’m a software engineer with a strong interest in **Artificial Intelligence, software architecture, engineering optimization, and intelligent systems**.
+I’m a software engineer with experience in building modern web applications and a growing focus on **Artificial Intelligence and Machine Learning**.
 
-My background is primarily in full-stack application development, and I’m currently expanding deeper into AI Engineering with a focus on building practical, scalable, and maintainable solutions for real-world problems.
+I enjoy creating practical, scalable, and maintainable software solutions while continuously improving my skills in software engineering, backend systems, AI, and application architecture.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Experienced in full-stack software development
-- 🤖 Growing deeper into AI & Machine Learning Engineering
-- 🧠 Interested in intelligent systems, optimization, and engineering technology
-- 🏗️ Passionate about scalable architecture and clean software design
-- ⚙️ Enjoy working with algorithms, automation, and data-driven solutions
-- 📚 Continuously learning and experimenting with new technologies
+- 🤖 Exploring and building with Artificial Intelligence & Machine Learning
+- ⚙️ Interested in backend systems, APIs, automation, and scalable architecture
+- 🧩 Enjoy solving practical problems with clean and maintainable solutions
+- 📚 Continuously learning modern software engineering practices
 - 🌏 Based in Indonesia
 
 ---
@@ -27,6 +26,7 @@ My background is primarily in full-stack application development, and I’m curr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
@@ -34,48 +34,48 @@ My background is primarily in full-stack application development, and I’m curr
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### AI, Data & Algorithms
+### AI & Data
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-`Machine Learning` · `Graph Algorithms` · `Pathfinding` · `Optimization` · `Spatial Intelligence`
-
-### Database & Infrastructure
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Tools
+### Tools & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
 ## 🔍 Areas of Interest
 
 - Artificial Intelligence
-- Machine Learning Engineering
-- Engineering Optimization
+- Machine Learning
+- Full-Stack Development
+- Backend Engineering
 - Software Architecture
-- Algorithms & Graph Intelligence
-- 3D / Spatial Intelligence
-- CAD / BIM Technologies
-- Computer Vision
-- Engineering Automation
-- Industrial AI
+- API Development
+- Automation
+- System Integration
+- Clean Architecture
+- Scalable Application Development
 
 ---
 
@@ -85,11 +85,11 @@ I value software that is:
 
 - **Simple** enough to understand
 - **Scalable** enough to grow
-- **Modular** enough to evolve
 - **Maintainable** enough to last
-- **Useful** enough to solve real problems
+- **Modular** enough to evolve
+- **Reliable** enough for real-world use
 
-> Good engineering is not only about making things work — it is about making them easy to understand, improve, and maintain.
+> Good software should not only work — it should also be easy to understand, maintain, and improve.
 
 ---
 
@@ -97,11 +97,11 @@ I value software that is:
 
 - Advanced Python
 - Machine Learning Engineering
-- Optimization Algorithms
-- Graph-based Intelligence
-- Computer Vision
-- AI System Architecture
-- Production-ready AI Systems
+- AI System Development
+- Backend Architecture
+- System Design
+- Software Engineering Best Practices
+- Production-ready AI Applications
 
 ---
 
@@ -112,15 +112,20 @@ I value software that is:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiqbal-99&layout=compact&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsiqbal-99&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqbal-fajriansah/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbaldjaafar99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-itsiqbal--99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsiqbal-99)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Iqbal_Fajriansah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-iqbal-fajriansah)
 
 ---
 
 <p align="center">
-  <b>Software Engineering × Artificial Intelligence × Engineering Technology</b>
+  <b>Software Engineering × Artificial Intelligence × Continuous Learning</b>
 </p>
