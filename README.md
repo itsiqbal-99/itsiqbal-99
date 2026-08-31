@@ -37,19 +37,19 @@ https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor
 https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white
 https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
 https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
-![Three.js](https:s.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white
+https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white
 
 ### AI & Data
 
-![scikit-learnields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white
 https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
-![SciPy](https://img.shields.io/by-8CAAE6?style=flat-square&logo=scipy&logoColor=white
-![Pandas](https://img.shields.io/badge/Pandas-150458?-square&logo=pandas&logoColor=white
+https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white
+![Pandas](https://img.shieldsPandas-150458?style=flat-square&logo=pandas&logoColor=white
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge69E1?style=flat-square&logo=postgresql&logoColor=white
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?t-square&logo=mysql&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1uare&logo=postgresql&logoColor=white
+![MySQL](https://img.shields.io/badge/MySQLtyle=flat-square&logo=mysql&logoColor=white
 
 ## 🔍 Areas of Interest
 
@@ -69,7 +69,7 @@ I’m especially interested in technologies that connect software engineering wi
 
 ## 🧭 Engineering Approach
 
-I value software that is simple to understand, scalable by design, and maintainable over time. My goal is to build solutions that not only work, but also solve meaningful real-world problems.
+I value software that is simple to understand, scalable by design, and maintainable over time. My goal is to build solutions that solve meaningful real-world problems.
 
 ## 🤝 Connect With Me
 
