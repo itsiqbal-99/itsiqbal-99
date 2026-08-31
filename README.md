@@ -95,6 +95,8 @@ I value software that is:
 
 ## 📈 Currently Learning
 
+- Vibe Coding
+- Software Engineering Architecture
 - Advanced Python
 - Machine Learning Engineering
 - Optimization Algorithms
@@ -105,21 +107,10 @@ I value software that is:
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqbal-fajriansah/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbaldjaafar99@gmail.com)
 
 ---
 
