@@ -105,19 +105,6 @@ I value software that is:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsiqbal-99&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiqbal-99&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsiqbal-99&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-itsiqbal--99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsiqbal-99)
